@@ -1,3 +1,3 @@
 # Portfolio
 Portfolio wat ik heb gedaan
-![datacampt](datacamp.jpg)
+![datacampt](C:\Users\Erik\Desktop\Afasie\datacamp.jpg)
