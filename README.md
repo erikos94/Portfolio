@@ -14,3 +14,4 @@ datacamp
 cousera
 Onderzoek gedaan naar fonologie
 onderzoek gedaan naar library's.
+Contactpersoon
