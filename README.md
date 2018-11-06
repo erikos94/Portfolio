@@ -1,5 +1,5 @@
 # Portfolio Aphasia project
- Naam student: Erik van der Caaij
+ Naam student: Erik van der Caaij <br>
  Studentnummer: 15059421
 Portfolio wat ik heb gedaan
 <img src='C:\Users\Erik\Desktop\Afasie\datacamp.jpg'> </img>
