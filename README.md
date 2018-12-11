@@ -37,7 +37,7 @@ Tijdens het doen van Research naar wat Afasie was is er gebruikt gemaakt van een
  
 Predictive Models<br>
 <ul>
- <li>SVM</li>
+ <li>SVM: https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li>
  <li>DNN (LSTM) tensorflow</li>
 </ul>
  
