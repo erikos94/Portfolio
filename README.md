@@ -26,7 +26,10 @@ Tijdens het doen van Research naar wat Afasie was is er gebruikt gemaakt van een
  
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
- [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx)
+ [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
+ 
+ Research naar wat fonologie, syntaxis, semantiek, antoniemen, synonimen en hypniemen zijn.
+ https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
 
 
 
