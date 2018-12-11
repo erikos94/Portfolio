@@ -5,9 +5,28 @@
  <img src='C:\Users\Erik\Desktop\Afasie\datacamp.jpg'> </img>
 ![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)
 
-  <img src='C:\Users\Erik\Desktop\ADS\Coursera.png'> </img>
-![Coursera](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)
+![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png)
+
+ Domain knowledge(Literature, jargon, evaluation, existing data sets)
+ Predictive Models
+ Data preperation
+ Data Visualization
+ Data collection
+ Evaluation
+ Diagnostics of the learning proces
+ Comunication (presentations, summaries, paper)
  
+Link to the Python Notebooks you have finished (you can dump them to PDF)
+List the tickets from the Scrum backlog that you worked on, linked to deliverables, own experiments, etc.
+Add any other assignment you feel is evidence of your abilities<br>
+
+<ul>
+ <li>plan van aanpak gemaakt</li>
+ <li>scrum sessie leiden</li>
+ <li>notuleren</li>
+ <li>brainstorm sessies leiden en documenteren</li>
+<ul>
+
 Studentname and studentnummer: github: deKeizer-> opschaler<br>
 Online courses (screenshot for each course)<br>
 Jargon(vak kennis gebied, woorden uitleggen)<br>
@@ -23,10 +42,7 @@ Opdrachtomschrijving<br>
 Portfolio wat ik heb gedaan
 
 
-plan van aanpak gemaakt<br></br>
-scrum sessie leiden</br>
-notuleren</br>
-brainstorm sessies leiden en documenteren</br>
+
 presentaties voorbereid</br>
 onderzoeksvragen opgesteld</br>
 eerste versie van speech to text gemaakt</br>
