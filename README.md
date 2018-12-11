@@ -23,10 +23,11 @@ Hieronder staan een aantal screenshots van de online coursers die zijn afgerond.
 Tijdens het doen van Research naar wat Afasie was is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat uberhaupt Afasie is en om in te lezen in het Domein.<br>
 
 <h3>Bijvoorbeeld wat is Afasie? </h3> <br>
-<h3> Wat is Afasie?
+
 Ieder mens maakt gebruikt van taal. Dit kan in meerdere vormen zoals: praten, begrijpen, lezen , schrijven en gebaren maken ("Behandeling van Afasie", z.d.). Deze vormen kunnen we toekennen aan het begrip taalgebruik. Als gevolg van hersenletsel één of meerdere onderdelen van het taalgebruik niet meer goed functioneren, noemt men dat Afasie. A (= niet) fasie (= spreken) betekent dus dat iemand niet meer kan zeggen wat hij wil. Als mensen naar het buitenland gaan voor vakantie en moeten naar de dokter dan bestaat er de kans dat men ook last heeft van frustraties om zich te kunnen uiten over het probleem wat men heeft. Dit geld ook voor mensen met Afasie. Ze hebben ook last van stress, omdat ze zich niet goed kunnen uiten van hoe ze zich voelen. 
-Afasie is gerelateerd aan een taalstoornis. Het zijn allemaal unieke gevallen en geen twee gevallen zijn hetzelfde.
-Wat is afasie? (z.d.). Geraadpleegd op 29 augustus 2018, van https://www.afasie.nl/new/?cat=afasie </h3>
+Afasie is gerelateerd aan een taalstoornis. Het zijn allemaal unieke gevallen en geen twee gevallen zijn hetzelfde.<br>
+ 
+Wat is afasie? (z.d.). Geraadpleegd op 29 augustus 2018, van https://www.afasie.nl/new/?cat=afasie
 
 
 
