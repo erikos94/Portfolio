@@ -7,14 +7,14 @@
 
 ![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png)
 
- Domain knowledge(Literature, jargon, evaluation, existing data sets)
- Predictive Models
- Data preperation
- Data Visualization
- Data collection
- Evaluation
- Diagnostics of the learning proces
- Comunication (presentations, summaries, paper)
+ Domain knowledge(Literature, jargon, evaluation, existing data sets)<br>
+ Predictive Models<br>
+ Data preperation<br>
+ Data Visualization<br>
+ Data collection<br>
+ Evaluation<br>
+ Diagnostics of the learning proces<br>
+ Comunication (presentations, summaries, paper)<br>
  
 Link to the Python Notebooks you have finished (you can dump them to PDF)
 List the tickets from the Scrum backlog that you worked on, linked to deliverables, own experiments, etc.
