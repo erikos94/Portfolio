@@ -2,8 +2,19 @@
  Naam student: Erik van der Caaij <br>
  Studentnummer: 15059421 <br>
  
- <img src='C:\Users\Erik\Desktop\Afasie\datacamp.jpg'> </img>
+
+ 
+In dit project is er gekeken naar de mogelijkehden om mensen met Afasie te kunnen helpen met het herstellen van een hersenbloeding. Afasie is als mensen een hersenbloeding hebben gehad in het taalcentrum waardoor mensen niet goed meer kunnen praten of bepaalde fonetische fouten maken. Voor het herstellen van deze variant van de hersenbloeding gaan mensen in sessies met een begeleider oefenen. In veel gevallen zorgt deze één op één sessie voor veel stress hierdoor gaat de spraak bij de patienten nog lastiger. Onze taak in dit project is dan ook om te kijken hoe wij eventueel door het gebruikt te maken van een computer/robot deze patienten te kunnen laten oefenen zonder dat zij deze stress mee maken. Wij proberen in dit project hoe een speech2text kan helpen bij het oefenen van mensen met Afasie en proberen deze dan te ontwikkelen. <br>
+
+In dit project wordt er gebruikt gemaakt van Scrum hierdoor weten we precies wat iedereen in het projectgroepje aan het doen is en kunnen we ook mensen erop aanspreken als bepaalde taken niet zijn uitgevoerd. Elke sprint duurt twee weken en we hebben zo'n twintig weken voor dit project.<br>
+
+Hieronder staan een aantal screenshots van de online coursers die zijn afgerond.
+
+<H2> Datacamp screenshot </H2> <br>
+ 
 ![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)
+
+<h2> Coursera screenshot </H2><br>
 
 ![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png)
 
