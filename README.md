@@ -30,15 +30,29 @@ Tijdens het doen van Research naar wat Afasie was is er gebruikt gemaakt van een
  
  Research naar wat fonologie, syntaxis, semantiek, antoniemen, synonimen en hypniemen zijn.
  https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
-
-
-
-
-
  
- Predictive Models<br>
+ Research naar de classifier heb ik ook gedaan zodat ik wist hoe dat in elkaar zat met audio <br>
+ 
+ https://drive.google.com/open?id=13leNNydpd_EampEnIj_HkgvUG4eO3CMx
+ 
+Predictive Models<br>
+<ul>
+ <li>SVM</li>
+ <li>DNN (LSTM) tensorflow</li>
+</ul>
+ 
+ 
  Data preperation<br>
+ Voor het ophalen van data en het maken van een dictionary heb ik de volgende script geschreven <br>
+ https://drive.google.com/open?id=1VUCTDgCSdM5k-1H6dtcS5kZqCd24fGZdh1OkAVpnb-k<br>
+ 
+ ook voor het cleanen van de data heb ik de volgende code gebruikt: <br>
+ 
+ https://drive.google.com/open?id=1VWy6CvHBdHIYbUxilQucKrjDkHY8dJHigvAFRkZ2y_0
+ 
  Data Visualization<br>
+ 
+ 
  Data collection<br>
  Evaluation<br>
  Diagnostics of the learning proces<br>
