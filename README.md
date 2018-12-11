@@ -22,8 +22,9 @@ Hieronder staan een aantal screenshots van de online coursers die zijn afgerond.
  
 Tijdens het doen van Research naar wat Afasie was is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat uberhaupt Afasie is en om in te lezen in het Domein.<br>
 
-<h3>Bijvoorbeeld wat is Afasie? </h3> <br>
 <Scrumticket> 
+ 
+ Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
  [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx)
 
