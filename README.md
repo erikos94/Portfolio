@@ -59,6 +59,10 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  <h2> Data Visualization </h2><br>
  
+ We hebben eigenlijk data visualization kunnen toepassen vanaf ongeveer week 12, omdat we elke keer geen goede dataset hadden. Met geen goede dataset bedoelen we dat we geen timestamps hadden per woord. Dit kon ook niet gegenereerd worden, omdat deze vaak niet accuraat was. <br>
+ 
+ 
+ 
  
  <h2> Data collection </h2><br>
  <h2> Evaluation </h2><br>
