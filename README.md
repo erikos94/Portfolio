@@ -32,6 +32,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
+ In dit document is er research gedaan naar wat afasie precies is en of het bijvoorbeeld over kan gaan etc.
  [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
  
  Research naar wat fonologie, syntaxis, semantiek, antoniemen, synonimen en hypniemen zijn.
@@ -41,14 +42,14 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  https://drive.google.com/open?id=13leNNydpd_EampEnIj_HkgvUG4eO3CMx
  
-Predictive Models<br>
+<h2>Predictive Models</h2><br>
 <ul>
  <li>SVM: https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li>
  <li>DNN (LSTM) tensorflow</li>
 </ul>
  
  
- Data preperation<br>
+ <h2>Data preperation</h2><br>
  Voor het ophalen van data en het maken van een dictionary heb ik de volgende script geschreven <br>
  https://drive.google.com/open?id=1VUCTDgCSdM5k-1H6dtcS5kZqCd24fGZdh1OkAVpnb-k<br>
  
