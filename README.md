@@ -61,6 +61,8 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  We hebben eigenlijk data visualization kunnen toepassen vanaf ongeveer week 12, omdat we elke keer geen goede dataset hadden. Met geen goede dataset bedoelen we dat we geen timestamps hadden per woord. Dit kon ook niet gegenereerd worden, omdat deze vaak niet accuraat was. <br>
  
+ Tijdens het project hebben zijn we een experiment gaan doen met een bepaalde pipeline. Deze pipeline zou van een fourier transfrom (FFT) over een audio signaal uitvoeren. Dus hierbij hebben we het proberen te plotten om te zien wat dit precies inhield en hoe we dit moesten interpreteren. <br>
+ 
  
  
  
