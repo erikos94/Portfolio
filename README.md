@@ -11,16 +11,22 @@ In dit project wordt er gebruikt gemaakt van Scrum hierdoor weten we precies wat
 Hieronder staan een aantal screenshots van de online coursers die zijn afgerond.
 
 <H2> Datacamp screenshot </H2> <br>
+Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb geleerd. Daarna heb ik dit gebruikt in het project om zo bestanden kunnen cleanen en te visualiseren. De volgende hoodstukken zijn hierbij aanbod gekomen: Intro to Pyhton for Data Science, Intermediate Python for Data Science, Customizing plots, Introduction and flat files, Writing your own functions, Python Data Science Toolbox(Part2), Data ingestion & inspection en Exploratory data. <br>
+
+<h1> Zie ticketnummer </h1>
  
 ![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)
 
 <h2> Coursera screenshot </H2><br>
+Coursera heb ik ook in de eerste tien weken van de deze minor afgerond om zo genoeg kennis te hebben voor de toets en te zorgen dat ik kennis genoeg heb en dit kan toepassen op het project van Afasie. In Coursera heb ik week1, week2, week3 en week 6 gemaakt. Hieronder staat de screenshot met bijbehorende percentages die ik gehaald heb voor de quizzen aan het einde van een bepaald hoofdstuk.<br>
 
-![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png)
+![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png) <br>
 
- Domain knowledge(Literature, jargon, evaluation, existing data sets)<br>
+
+
+ <h2> Domain knowledge(Literature, jargon, evaluation, existing data sets)</h2> <br>
  
-Tijdens het doen van Research naar wat Afasie was is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat uberhaupt Afasie is en om in te lezen in het Domein.<br>
+Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat uberhaupt Afasie is en om in te lezen in het domein.<br>
 
 <Scrumticket> 
  
