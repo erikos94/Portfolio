@@ -69,8 +69,11 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
 Dit was wel een restultaat, omdat beide plots er anders uitzien, het lijkt op dat dit iets te maken heeft met een frequentie etc, maar dit hebben we nooit goed kunnen inschatten en zijn we verder gegaan met deze woorden te plotten op een wav-file.
 Daarna heb ik deze omgezet in een audio wav, om te zien of daar bepaalde veranderingen te zien waren. <br>
 
-
+Dit is voor vijf ingesproken woorden door Erik.
 ![wav files woorden_erik](https://user-images.githubusercontent.com/42931518/49878716-8cd95380-fe28-11e8-98ff-bb6f2c37c38f.png) <br>
+
+
+Dit is voor vijf ingesproken woorden door Koray. 
 ![koray woorden wav](https://user-images.githubusercontent.com/42931518/49878714-8a76f980-fe28-11e8-8c58-c74d47b60d93.png)<br>
 
 
