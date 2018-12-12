@@ -63,8 +63,17 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  Tijdens het project hebben zijn we een experiment gaan doen met een bepaalde pipeline. Deze pipeline zou van een fourier transfrom (FFT) over een audio signaal uitvoeren. Dus hierbij hebben we het proberen te plotten om te zien wat dit precies inhield en hoe we dit moesten interpreteren. <br>
  
- 
- 
+![erik woorden plot fft](https://user-images.githubusercontent.com/42931518/49877233-41717600-fe25-11e8-88ac-daa86d9511de.png)<br>
+![koray woorden plot fft](https://user-images.githubusercontent.com/42931518/49877238-42a2a300-fe25-11e8-8e69-a33dc26265dd.png)<br>
+
+Dit was wel een restultaat, omdat beide plots er anders uitzien, het lijkt op dat dit iets te maken heeft met een frequentie etc, maar dit hebben we nooit goed kunnen inschatten en zijn we verder gegaan met deze woorden te plotten op een wav-file.
+Daarna heb ik deze omgezet in een audio wav, om te zien of daar bepaalde veranderingen te zien waren. <br>
+
+
+![wav files woorden_erik](https://user-images.githubusercontent.com/42931518/49878716-8cd95380-fe28-11e8-98ff-bb6f2c37c38f.png) <br>
+![koray woorden wav](https://user-images.githubusercontent.com/42931518/49878714-8a76f980-fe28-11e8-8c58-c74d47b60d93.png)<br>
+
+
  
  <h2> Data collection </h2><br>
  <h2> Evaluation </h2><br>
