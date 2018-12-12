@@ -90,9 +90,17 @@ Add any other assignment you feel is evidence of your abilities </h2><br>
 
 <ul>
  <li>plan van aanpak gemaakt</li>
+ <li> Interviewprotocool opstellen </li>
+ <li>Zoeken naar wetenschappelijke artikelen  </li>
+ <li> Onderzoek gedaan naar Arfabet en sampa/xsampa <li>
+ <li> Selecteren van audio voor Afasie</li>
+ <li> Dataset achterhaalt </li>
+ <li>brainstorm sessies leiden en documenteren (voor de deelvragen)</li>
+ <li>speech2text met google api</li>
  <li>scrum sessie leiden</li>
  <li>notuleren</li>
- <li>brainstorm sessies leiden en documenteren</li>
+ <li>onderzoek naar sphinx gedaan</li>
+ 
 <ul>
 
 Studentname and studentnummer: github: deKeizer-> opschaler<br>
