@@ -76,8 +76,9 @@ Dit is voor vijf ingesproken woorden door Erik.
 Dit is voor vijf ingesproken woorden door Koray. 
 ![koray woorden wav](https://user-images.githubusercontent.com/42931518/49878714-8a76f980-fe28-11e8-8c58-c74d47b60d93.png)<br>
 
+Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken en waarschijnlijk ook op een andere frequentie, maar kunnen we hier niet goed van interpreteren. Wat uiteindelijk het resultaat hiervan is, is dat we weten hoe je een FFT kan gebruiken over een audio file en wat je met die library kan doen.
 
- 
+
  <h2> Data collection </h2><br>
  <h2> Evaluation </h2><br>
  <h2> Diagnostics of the learning proces </h2><br>
