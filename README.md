@@ -80,8 +80,8 @@ Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken
 
 
  <h2> Data collection </h2><br>
- <h2> Evaluation </h2><br>
- <h2> Diagnostics of the learning proces </h2><br>
+ <h2> Evaluation:precision recall </h2><br>
+  <h2> Diagnostics of the learning proces :learning rate, loss function, overfitting and underfitting </h2><br>
  <h2> Comunication (presentations, summaries, paper) </h2><br>
  
 <h2>Link to the Python Notebooks you have finished (you can dump them to PDF)</h2>
