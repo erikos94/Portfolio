@@ -4,7 +4,7 @@
  
 
  
-In dit project is er gekeken naar de mogelijkehden om mensen met Afasie te kunnen helpen met het herstellen van een hersenbloeding. Afasie is als mensen een hersenbloeding hebben gehad in het taalcentrum waardoor mensen niet goed meer kunnen praten of bepaalde fonetische fouten maken. Voor het herstellen van deze variant van de hersenbloeding gaan mensen in sessies met een begeleider oefenen. In veel gevallen zorgt deze één op één sessie voor veel stress hierdoor gaat de spraak bij de patienten nog lastiger. Onze taak in dit project is dan ook om te kijken hoe wij eventueel door het gebruikt te maken van een computer/robot deze patienten te kunnen laten oefenen zonder dat zij deze stress mee maken. Wij proberen in dit project hoe een speech2text kan helpen bij het oefenen van mensen met Afasie en proberen deze dan te ontwikkelen. <br>
+In dit project is er gekeken naar de mogelijkeheden om mensen met Afasie te kunnen helpen met het herstellen van een hersenbloeding. Afasie is als mensen een hersenbloeding hebben gehad in het taalcentrum waardoor mensen niet goed meer kunnen praten of bepaalde fonetische fouten maken. Voor het herstellen van deze variant van de hersenbloeding gaan mensen in sessies met een begeleider oefenen. In veel gevallen zorgt deze één op één sessie voor veel stress hierdoor gaat de spraak bij de patienten nog lastiger. Onze taak in dit project is dan ook om te kijken hoe wij eventueel door het gebruikt te maken van een computer/robot deze patienten te kunnen laten oefenen zonder dat zij deze stress mee maken. Wij proberen in dit project hoe een speech2text kan helpen bij het oefenen van mensen met Afasie en proberen deze dan te ontwikkelen. <br>
 
 In dit project wordt er gebruikt gemaakt van Scrum hierdoor weten we precies wat iedereen in het projectgroepje aan het doen is en kunnen we ook mensen erop aanspreken als bepaalde taken niet zijn uitgevoerd. Elke sprint duurt twee weken en we hebben zo'n twintig weken voor dit project.<br>
 
@@ -45,7 +45,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
 <h2>Predictive Models</h2><br>
 <ul>
  <li>SVM: https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li>
- <li>DNN (LSTM) tensorflow</li>
+ <li>(LSTM) tensorflow</li> <b> Hier moet de link komen naar de notebook <b>
 </ul>
  
  
@@ -80,9 +80,26 @@ Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken
 
 
  <h2> Data collection </h2><br>
+ We zijn met de data collection vrij lang beziggeweest ,omdat we eerst dachten dat we de data van onze opdrachtgever vroeg zouden krijgen en aan de slag te kunnen gaan. Achteraf bleek de data die we hebben gekregen niet te voldoen aan de eisen om een Speech2text te maken. 
+ 
+ We hebben veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen inspreken zodat we deze kunnen gebruiken om bepaalde boundaries te vinden. <b> link naar audio opnamens</b> Deze heb ik samen met Koray ingesproken.
+
+Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam).
+
+Deze had .. uur aan audio en hebben we doormiddel van een scraper die Koray had gemaakt van de site afgehaald zodat we in iedergeval data hadden waarmee we aan de slag konden. 
+
+ 
  <h2> Evaluation:precision recall </h2><br>
   <h2> Diagnostics of the learning proces :learning rate, loss function, overfitting and underfitting </h2><br>
+  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans. Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed, de nederlandse zinnen werden ongeveer met ..% goed voorspeld <b> plaatje </b>
+  
+Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden gegenereerd. Deze hebben we als input meegegeven aan de LSTM en deze gaf ongeveer zo'n 80% goede uitkomst. <b> plaatje invoegen </b> Dat gaf dus veel hoop om dit ook te proberen met fonemen, zodat we konden kijken we zinnen in fonemen konden uitsplitten.
+  
  <h2> Comunication (presentations, summaries, paper) </h2><br>
+ 
+ <b> paper: </b>
+ <b> presentations </b>
+ 
  
 <h2>Link to the Python Notebooks you have finished (you can dump them to PDF)</h2>
 <h2>List the tickets from the Scrum backlog that you worked on, linked to deliverables, own experiments, etc.
