@@ -93,10 +93,10 @@ Deze had .. uur aan audio en hebben we doormiddel van een scraper die Koray had 
   <h2> Diagnostics of the learning proces :learning rate, loss function, overfitting and underfitting </h2><br>
   Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans. Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed, de nederlandse zinnen werden ongeveer met ..% goed voorspeld <br>
   
- ![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691560-637ba400-1031-11e9-97cd-149c5026a22e.png)<br>
-![loss_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691565-65ddfe00-1031-11e9-98c3-3e9cf7dda3e2.png)<br>
-![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691568-66769480-1031-11e9-9fc0-3504e1904f5a.png)<br>
- 
+![loss_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691687-c5d4a480-1031-11e9-989f-5056d3947158.png)
+![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691688-c5d4a480-1031-11e9-8205-c2cc8939fa56.png)
+![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691690-c5d4a480-1031-11e9-8320-2bd3dff64bfc.png)
+
 Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden gegenereerd. Deze hebben we als input meegegeven aan de LSTM en deze gaf ongeveer zo'n 80% goede uitkomst. <b> plaatje invoegen </b> Dat gaf dus veel hoop om dit ook te proberen met fonemen, zodat we konden kijken we zinnen in fonemen konden uitsplitten.
   
  <h2> Comunication (presentations, summaries, paper) </h2><br>
