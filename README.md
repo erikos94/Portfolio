@@ -113,6 +113,12 @@ Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden g
  
  <b> paper: </b>
  <b> presentations </b>
+<li>
+ Week 5: https://drive.google.com/open?id=1LTQ1qC7WCMWQCBOAMHP2-zoP1kSOJ_pJ-iCz9XHRlM4 <br>
+ Week 7: https://drive.google.com/open?id=1kc2vpfFzrVpF5ZZYKZ_q40-oPAyFXuui--qmEfO9Oz8
+ week 9: https://drive.google.com/open?id=1DMURc9o1ilJxbFun1z4FlDX9dX4VIfMDrEaKX4mk9-E
+ week 14:https://drive.google.com/open?id=1QvgprRupfHHyXJjVTP4y33QZ_YZtDWr3axN3W_Eh0wc
+ </li>
  
  
 <h2>Link to the Python Notebooks you have finished (you can dump them to PDF)</h2>
