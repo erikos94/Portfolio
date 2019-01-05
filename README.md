@@ -15,13 +15,14 @@ Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb 
 
 <h1> Zie ticketnummer </h1>
  
-![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)
+![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)<br>
+Afbeelding1: Hier staan de cursussen die ik heb afgerond voor datacamp.<br>
 
 <h2> Coursera screenshot </H2><br>
 Coursera heb ik ook in de eerste tien weken van de deze minor afgerond om zo genoeg kennis te hebben voor de toets en te zorgen dat ik kennis genoeg heb en dit kan toepassen op het project van Afasie. In Coursera heb ik week1, week2, week3 en week 6 gemaakt. Hieronder staat de screenshot met bijbehorende percentages die ik gehaald heb voor de quizzen aan het einde van een bepaald hoofdstuk.<br>
 
 ![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png) <br>
-
+Afbeelding2: Hier staan de cursussen die ik heb afgerond voor coursera.<br>
 
 
  <h2> Domain knowledge(Literature, jargon, evaluation, existing data sets)</h2> <br>
@@ -34,6 +35,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  In dit document is er research gedaan naar wat afasie precies is en of het bijvoorbeeld over kan gaan etc.
  [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
+
  
  In dit document is er research gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synonimen en hypniemen zijn. Dit heeft bijgedragen aan het project, omdat hierdoor weet om welke fouten het gaat en hoe je deze termen uitelkaar kan halen en zien wat dit betekend.
  https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
@@ -73,17 +75,21 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  Tijdens het project hebben zijn we een experiment gaan doen met een bepaalde pipeline. Deze pipeline zou van een fourier transfrom (FFT) over een audio signaal uitvoeren. Dus hierbij hebben we het proberen te plotten om te zien wat dit precies inhield en hoe we dit moesten interpreteren. <br>
  
 ![erik woorden plot fft](https://user-images.githubusercontent.com/42931518/49877233-41717600-fe25-11e8-88ac-daa86d9511de.png)<br>
+ Afbeelding3: Een plot van vijf uitgesproken woorden door Erik in FFT.<br>
+
 ![koray woorden plot fft](https://user-images.githubusercontent.com/42931518/49877238-42a2a300-fe25-11e8-8e69-a33dc26265dd.png)<br>
+Afbeelding4: Een plot van vijf uitgesproken woorden door Koray in FFT.<br>
 
 Dit was wel een restultaat, omdat beide plots er anders uitzien, het lijkt op dat dit iets te maken heeft met een frequentie etc, maar dit hebben we nooit goed kunnen inschatten en zijn we verder gegaan met deze woorden te plotten op een wav-file.
 Daarna heb ik deze omgezet in een audio wav, om te zien of daar bepaalde veranderingen te zien waren. <br>
 
 Dit is voor vijf ingesproken woorden door Erik.
 ![wav files woorden_erik](https://user-images.githubusercontent.com/42931518/49878716-8cd95380-fe28-11e8-98ff-bb6f2c37c38f.png) <br>
-
+Afbeelding5: Een plot van vijf uitgesproken woorden door Erik in Wav.<br>
 
 Dit is voor vijf ingesproken woorden door Koray. 
 ![koray woorden wav](https://user-images.githubusercontent.com/42931518/49878714-8a76f980-fe28-11e8-8c58-c74d47b60d93.png)<br>
+Afbeelding6: Een plot van vijf uitgesproken woorden door Koray in Wav.<br>
 
 Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken en waarschijnlijk ook op een andere frequentie, maar kunnen we hier niet goed van interpreteren. Wat uiteindelijk het resultaat hiervan is, is dat we weten hoe je een FFT kan gebruiken over een audio file en wat je met die library kan doen.
 
@@ -100,12 +106,16 @@ Deze dataset is 1.8GB groot hebben we doormiddel van een scraper die Koray had g
  
  <h2> Evaluation:precision recall </h2><br>
   <h2> Diagnostics of the learning proces :learning rate, loss function, overfitting and underfitting </h2><br>
-  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans. Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed, de nederlandse zinnen werden ongeveer met ..% goed voorspeld <br>
+  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans. Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
 
-![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691690-c5d4a480-1031-11e9-8320-2bd3dff64bfc.png)<br> 
+![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691690-c5d4a480-1031-11e9-8320-2bd3dff64bfc.png)<br>
+Afbeelding7: EEn plot van de accuracy van het experiment van Seq2seq van nederlandse zinnen.<br>
+
 ![loss_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691687-c5d4a480-1031-11e9-989f-5056d3947158.png)<br>
-![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691688-c5d4a480-1031-11e9-8205-c2cc8939fa56.png)<br>
+Afbeelding8: Een plot van de Loss van het experiment van Seq2seq van nederlandse zinnen.<br>
 
+![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691688-c5d4a480-1031-11e9-8205-c2cc8939fa56.png)<br>
+Afbeelding9: Een plot van de output van de het LSTM model voor de Seq2seq van de nederlandse zinnen.<br>
 
 Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden gegenereerd. Deze hebben we als input meegegeven aan de LSTM en deze gaf ongeveer zo'n 80% goede uitkomst. <b> plaatje invoegen </b> Dat gaf dus veel hoop om dit ook te proberen met fonemen, zodat we konden kijken we zinnen in fonemen konden uitsplitten.
   
