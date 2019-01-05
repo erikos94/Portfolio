@@ -44,10 +44,15 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
 <h2>Predictive Models</h2><br>
 <ul>
- <li>SVM: https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li>
- <li>(LSTM) tensorflow</li> <b> Hier moet de link komen naar de notebook <b>
-</ul>
+ <li>SVM: https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li><br>
  
+ 
+  
+ <li>(LSTM) tensorflow</li><br>
+ De LSTM is gebruikt om zinnen van het nederlands naar het nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk   ook kon met woorden en daarna met klanken.<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)
+
+</ul>
+
  
  <h2>Data preperation</h2><br>
  Voor het ophalen van data en het maken van een dictionary heb ik de volgende script geschreven <br>
