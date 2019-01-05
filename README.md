@@ -131,20 +131,19 @@ Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voo
 <ul>
  <li>Ik heb een plan van aanpak gemaakt: https://drive.google.com/open?id=1P7V9aLiVGaIaEyQCiOoEW5HxmrPvOt8m</li>
  <li>Ik heb een Interviewprotocool opgesteld: https://drive.google.com/open?id=1Tpcp2mWAdArX_iFhqvBKPpRbh99Z6bQ4rydBEV8Bbkg </li>
- <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. <li>
- <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.</li>
+ <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. [Klanken samenvatting CMUSPHINX(PORTFOLIO).docx](https://github.com/erikos94/Portfolio/files/2729482/Klanken.samenvatting.CMUSPHINX.PORTFOLIO.docx)
+
+<li>
+ <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.https://drive.google.com/open?id=1DSQH6HAD78IJ_G9AbMLu1JIcBfVK_flhk0uPyBZaF6Q</li>
  <li> Dataset achterhaalt (gesproken corpus nederlands)</li>
- <li>brainstorm sessies leiden en documenteren (voor de deelvragen)</li>
  <li>speech2text met google api</li>
  <li>Ook was ik scrummaster dit hele project en heb ik de scrum sessie geleid. </li>
  <li>notuleren</li>
- <li>onderzoek naar sphinx gedaan</li>
- 
 <ul>
 
 
  <li>Zoeken naar wetenschappelijke artikelen  </li>
-
+<li>brainstorm sessies leiden en documenteren (voor de deelvragen)</li>
 
 presentaties voorbereid</br>
 onderzoeksvragen opgesteld</br>
