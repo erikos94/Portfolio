@@ -93,9 +93,9 @@ Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken
  
  We hebben veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen inspreken zodat we deze kunnen gebruiken om bepaalde boundaries te vinden. <b> link naar audio opnamens</b> Deze heb ik samen met Koray ingesproken.
 
-Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam).
+Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam). http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFAcorpus/
 
-Deze had .. uur aan audio en hebben we doormiddel van een scraper die Koray had gemaakt van de site afgehaald zodat we in iedergeval data hadden waarmee we aan de slag konden. 
+Deze dataset is 1.8GB groot hebben we doormiddel van een scraper die Koray had gemaakt van de site afgehaald zodat we in iedergeval data hadden waarmee we aan de slag konden. 
 
  
  <h2> Evaluation:precision recall </h2><br>
@@ -125,23 +125,25 @@ Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden g
 <h2>List the tickets from the Scrum backlog that you worked on, linked to deliverables, own experiments, etc.
 Add any other assignment you feel is evidence of your abilities </h2><br>
 
+Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voor gezorgd dat iedereen zijn sterke punten kon benutten hierdoor heb ik meer documentatie werk gedaan dan andere. Hieronder een lijst wat ik denk dat wel toegevoegde waarde is geweest aan dit project. <br>
+
+
 <ul>
- <li>plan van aanpak gemaakt</li>
- <li> Interviewprotocool opstellen </li>
- <li>Zoeken naar wetenschappelijke artikelen  </li>
- <li> Onderzoek gedaan naar Arfabet en sampa/xsampa <li>
- <li> Selecteren van audio voor Afasie</li>
- <li> Dataset achterhaalt </li>
+ <li>Ik heb een plan van aanpak gemaakt: https://drive.google.com/open?id=1P7V9aLiVGaIaEyQCiOoEW5HxmrPvOt8m</li>
+ <li>Ik heb een Interviewprotocool opgesteld: https://drive.google.com/open?id=1Tpcp2mWAdArX_iFhqvBKPpRbh99Z6bQ4rydBEV8Bbkg </li>
+ <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. <li>
+ <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.</li>
+ <li> Dataset achterhaalt (gesproken corpus nederlands)</li>
  <li>brainstorm sessies leiden en documenteren (voor de deelvragen)</li>
  <li>speech2text met google api</li>
- <li>scrum sessie leiden</li>
+ <li>Ook was ik scrummaster dit hele project en heb ik de scrum sessie geleid. </li>
  <li>notuleren</li>
  <li>onderzoek naar sphinx gedaan</li>
  
 <ul>
 
 
-
+ <li>Zoeken naar wetenschappelijke artikelen  </li>
 
 
 presentaties voorbereid</br>
