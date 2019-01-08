@@ -29,7 +29,6 @@ Afbeelding2: Hier staan de cursussen die ik heb afgerond voor coursera.<br>
  
 Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat uberhaupt Afasie is en om in te lezen in het domein.<br>
 
-<Scrumticket> 
  
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
@@ -141,7 +140,7 @@ Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voo
 <ul>
  <li>Ik heb een plan van aanpak gemaakt: https://drive.google.com/open?id=1P7V9aLiVGaIaEyQCiOoEW5HxmrPvOt8m (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3266-pva-maken/id-84641-10790-7'> Scrumwise ticket </a>)</li>
  <li>Ik heb een Interviewprotocool opgesteld: https://drive.google.com/open?id=1Tpcp2mWAdArX_iFhqvBKPpRbh99Z6bQ4rydBEV8Bbkg (<a href='https://www.scrumwise.com/scrum/#/task/5022-interview-protocol-opstellen/id-84641-10738-102'> Scrumwise ticket</a>) </li>
- <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. [Klanken samenvatting CMUSPHINX(PORTFOLIO).docx](https://github.com/erikos94/Portfolio/files/2729482/Klanken.samenvatting.CMUSPHINX.PORTFOLIO.docx)
+ <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. [Klanken samenvatting CMUSPHINX(PORTFOLIO).docx](https://github.com/erikos94/Portfolio/files/2729482/Klanken.samenvatting.CMUSPHINX.PORTFOLIO.docx) (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3523-find-out-more-about-phonemes-the-origin-and-how-they-work/id-84641-11280-0'< Scrumwise ticket </a>)
 
 <li>
  <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.https://drive.google.com/open?id=1DSQH6HAD78IJ_G9AbMLu1JIcBfVK_flhk0uPyBZaF6Q</li>
