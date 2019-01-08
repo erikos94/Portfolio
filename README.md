@@ -106,7 +106,7 @@ Deze dataset is 1.8GB groot hebben we doormiddel van een scraper die Koray had g
  
  <h2> Evaluation:precision recall </h2><br>
   <h2> Diagnostics of the learning proces :learning rate, loss function, overfitting and underfitting </h2><br>
-  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans. Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
+  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4407-seq2seq-bekijken-en-zien-hoe-we-dit-kunnen-toepassen-op-afasie/id-84641-13599-17'>Scrumwise ticket </a>). Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
 
 ![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691690-c5d4a480-1031-11e9-8320-2bd3dff64bfc.png)<br>
 Afbeelding7: EEn plot van de accuracy van het experiment van Seq2seq van nederlandse zinnen.<br>
