@@ -139,7 +139,7 @@ Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voo
 
 
 <ul>
- <li>Ik heb een plan van aanpak gemaakt: https://drive.google.com/open?id=1P7V9aLiVGaIaEyQCiOoEW5HxmrPvOt8m</li>
+ <li>Ik heb een plan van aanpak gemaakt: https://drive.google.com/open?id=1P7V9aLiVGaIaEyQCiOoEW5HxmrPvOt8m (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3266-pva-maken/id-84641-10790-7'> Scrumwise ticket </a>)</li>
  <li>Ik heb een Interviewprotocool opgesteld: https://drive.google.com/open?id=1Tpcp2mWAdArX_iFhqvBKPpRbh99Z6bQ4rydBEV8Bbkg (<a href='https://www.scrumwise.com/scrum/#/task/5022-interview-protocol-opstellen/id-84641-10738-102'> Scrumwise ticket</a>) </li>
  <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. [Klanken samenvatting CMUSPHINX(PORTFOLIO).docx](https://github.com/erikos94/Portfolio/files/2729482/Klanken.samenvatting.CMUSPHINX.PORTFOLIO.docx)
 
