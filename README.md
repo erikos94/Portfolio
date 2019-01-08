@@ -72,7 +72,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  We hebben eigenlijk data visualization kunnen toepassen vanaf ongeveer week 12, omdat we elke keer geen goede dataset hadden. Met geen goede dataset bedoelen we dat we geen timestamps hadden per woord. Dit kon ook niet gegenereerd worden, omdat deze vaak niet accuraat was. <br>
  
- Tijdens het project hebben zijn we een experiment gaan doen met een bepaalde pipeline. Deze pipeline zou van een fourier transfrom (FFT) over een audio signaal uitvoeren. Dus hierbij hebben we het proberen te plotten om te zien wat dit precies inhield en hoe we dit moesten interpreteren. <br>
+ Tijdens het project hebben we een experiment gaan doen met een pipeline. Deze pipeline zou van een fourier transfrom (FFT) over een audio signaal uitvoeren. Dus hierbij hebben we het proberen te plotten om te zien wat dit precies inhield en hoe we dit moesten interpreteren.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3772-voorbeeld-creeren-visualisatie-van-fft-en-mfcc/id-84641-11988-34'>Scrumwise ticket </a>) <br>
  
 ![erik woorden plot fft](https://user-images.githubusercontent.com/42931518/49877233-41717600-fe25-11e8-88ac-daa86d9511de.png)<br>
  Afbeelding3: Een plot van vijf uitgesproken woorden door Erik in FFT.<br>
