@@ -46,7 +46,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
 <h2>Predictive Models</h2><br>
 <ul>
- <li>SVM: https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li><br>
+ <li>SVM(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3851-classifier-trainen-met-10-zinnen-van-foxvorge-data/id-84641-12037-7'> </a>): https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li><br>
  
  
   
