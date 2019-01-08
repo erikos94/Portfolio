@@ -145,7 +145,7 @@ Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voo
 <li>
  <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.https://drive.google.com/open?id=1DSQH6HAD78IJ_G9AbMLu1JIcBfVK_flhk0uPyBZaF6Q</li>
  <li> Dataset achterhaalt (gesproken corpus nederlands)</li>
- <li>speech2text met google api</li>
+ <li>speech2text met google api [Api google code.docx](https://github.com/erikos94/Portfolio/files/2736965/Api.google.code.docx)</li>
  <li>Ook was ik scrummaster dit hele project en heb ik de scrum sessie geleid. </li>
  <li>notuleren</li>
 <ul>
