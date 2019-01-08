@@ -19,7 +19,7 @@ Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb 
 Afbeelding1: Hier staan de cursussen die ik heb afgerond voor datacamp.<br>
 
 <h2> Coursera screenshot </H2><br>
-Coursera heb ik ook in de eerste tien weken van de deze minor afgerond om zo genoeg kennis te hebben voor de toets en te zorgen dat ik kennis genoeg heb en dit kan toepassen op het project van Afasie. In Coursera heb ik week1, week2, week3 en week 6 gemaakt. Hieronder staat de screenshot met bijbehorende percentages die ik gehaald heb voor de quizzen aan het einde van een bepaald hoofdstuk.<br>
+Coursera heb ik ook in de eerste tien weken van de deze minor afgerond om zo genoeg kennis te hebben voor de toets en te zorgen dat ik kennis genoeg heb en dit kan toepassen op het project van Afasie(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4405-coursera-maken/id-84641-13599-0'>Scrumwise ticket </a>). In Coursera heb ik week1, week2, week3 en week 6 gemaakt. Hieronder staat de screenshot met bijbehorende percentages die ik gehaald heb voor de quizzen aan het einde van een bepaald hoofdstuk.<br>
 
 ![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png) <br>
 Afbeelding2: Hier staan de cursussen die ik heb afgerond voor coursera.<br>
