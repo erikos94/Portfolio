@@ -33,7 +33,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
- In dit document is er research gedaan naar wat afasie precies is en of het bijvoorbeeld over kan gaan etc.
+ In dit document is er research gedaan naar wat afasie precies is en of het bijvoorbeeld over kan gaan etc(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3224-deskresearch-afasie/id-84641-10738-18'> Scrumwise ticket </a>).
  [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
 
  
