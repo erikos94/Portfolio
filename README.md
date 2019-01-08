@@ -40,7 +40,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  In dit document is er research gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synonimen en hypniemen zijn(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat hierdoor weet om welke fouten het gaat en hoe je deze termen uitelkaar kan halen en zien wat dit betekend.
  https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
  
- Hieronder staat het document waarin ik research heb gedaan naar literatuur en hoe zei bepaalde classiefiers gebruiken en hoe accuraat    die zijn en hoe dit eventueel in ons project gebruikt kon gaan worden. Dit heeft bijgedragen dat we een aantal van deze classifiers hebben gebruikt om te kijken hoe deze scoren met onze zelf gemaakt dataset.<br>
+ Hieronder staat het document waarin ik research heb gedaan naar literatuur en hoe zei bepaalde classiefiers gebruiken en hoe accuraat    die zijn en hoe dit eventueel in ons project gebruikt kon gaan worden(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3692-research-classificatie-algoritmes-voor-clasificere-van-diphone-clasifier/id-84641-11576-9'>Scrumwise ticket </a>). Dit heeft bijgedragen dat we een aantal van deze classifiers hebben gebruikt om te kijken hoe deze scoren met onze zelf gemaakt dataset.<br>
  
  https://drive.google.com/open?id=13leNNydpd_EampEnIj_HkgvUG4eO3CMx
  
