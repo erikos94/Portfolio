@@ -13,7 +13,7 @@ Hieronder staan een aantal screenshots van de online coursers die zijn afgerond.
 <H2> Datacamp screenshot </H2> <br>
 Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb geleerd. Daarna heb ik dit gebruikt in het project om zo bestanden kunnen cleanen en te visualiseren. De volgende hoodstukken zijn hierbij aanbod gekomen: Intro to Pyhton for Data Science, Intermediate Python for Data Science, Customizing plots, Introduction and flat files, Writing your own functions, Python Data Science Toolbox(Part2), Data ingestion & inspection en Exploratory data. <br>
 
-<h1> Zie ticketnummer </h1>
+<h1> <a href'https://www.scrumwise.com/scrum/#/backlog-item/3248-datacamp-python-intro-course/id-84641-10738-147'</a> </h1>
  
 ![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)<br>
 Afbeelding1: Hier staan de cursussen die ik heb afgerond voor datacamp.<br>
