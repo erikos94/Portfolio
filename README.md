@@ -51,7 +51,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
   
  <li>(LSTM) tensorflow</li><br>
- De LSTM is gebruikt om zinnen van het nederlands naar het nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk   ook kon met woorden en daarna met klanken.<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
+ De LSTM is gebruikt om zinnen van het nederlands naar het nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk   ook kon met woorden en daarna met klanken(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4406-lstm-en-fra-bekijken-en-toepassen-op-nl-nl-zinnen/id-84641-13599-10'> Scrumwise ticket </a>).<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
  
  Hierna heb ik geprobeerd om met woorden van nederlands naar het om te zetten en bij dit experiment gaf het aan dat het 80% accuarcy was. Hierna is het idee om van woorden naar klanken te gaan.Hieronder staat het resultaat van het experiment met de woorden naar woorden.<br> 
  
