@@ -27,30 +27,33 @@ Afbeelding2: Hier staan de cursussen die ik heb afgerond voor coursera.<br>
 
  <h2> Domain knowledge(Literature, jargon, evaluation, existing data sets)</h2> <br>
  
-Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat überhaupt Afasie is en om in te lezen in het domein.<br>
+Tijdens het doen van Research naar wat Afasie is heb ik gebruikt gemaakt van een aantal bronnen. Deze bronnen heb ik gebruikt om te zien wat überhaupt Afasie is en om in te lezen in het domein.<br>
 
  
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
- In dit document is er research gedaan naar wat afasie precies is en of het bijvoorbeeld over kan gaan etc(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3224-deskresearch-afasie/id-84641-10738-18'> Scrumwise ticket </a>).
+ In dit document is er research gedaan naar wat Afasie precies is en of het bijvoorbeeld over kan gaan. Daarnaast heb ik gekeken of er bepaalde woorden zijn waar Afasie vaker bij optreed.  (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3224-deskresearch-afasie/id-84641-10738-18'> Scrumwise ticket </a>).
  [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
-
  
- In dit document is er research gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synoniemen en hyponiemen zijn(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat hierdoor weet om welke fouten het gaat en hoe je deze termen uit elkaar kan halen en zien wat dit betekend.
+ 
+Ik heb in het onderstaande document onderzoek gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synoniemen en hyponiemen zijn. Dit heb ik met de rest van de groep gedeeld, omdat deze begrippen veel worden gebruikt in dit domein.In(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat ik hierdoor weet om welke fouten het gaat en hoe je deze termen uit elkaar kan halen en zien wat dit betekend.
  https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
  
- Hieronder staat het document waarin ik research heb gedaan naar literatuur en hoe zei bepaalde classiefiers gebruiken en hoe accuraat    die zijn en hoe dit eventueel in ons project gebruikt kon gaan worden(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3692-research-classificatie-algoritmes-voor-clasificere-van-diphone-clasifier/id-84641-11576-9'>Scrumwise ticket </a>). Dit heeft bijgedragen dat we een aantal van deze classifiers hebben gebruikt om te kijken hoe deze scoren met onze zelf gemaakt dataset.<br>
+Hieronder staat het document waarin ik research heb gedaan naar classifiers. Hierbij heb ik gekeken naar hoe ik bepaalde classifiers kan gebruiken en hoe accuraat deze zijn. Hiervoor heb ik wetenschappelijk artikelen gebruikt. Daarnaast heb ik de link gelegd om te zien of we deze classifiers uit de literatuur konden gebruiken voor ons project. We hebben uit de literatuur de hoogst scorende classifiers gehaald en deze hebben wij toegepast op ons project.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3692-research-classificatie-algoritmes-voor-clasificere-van-diphone-clasifier/id-84641-11576-9'>Scrumwise ticket </a>). <br>
  
  https://drive.google.com/open?id=13leNNydpd_EampEnIj_HkgvUG4eO3CMx
  
 <h2>Predictive Models</h2><br>
+Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of deze werkten voor ons project.
 <ul>
  <li>SVM(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3851-classifier-trainen-met-10-zinnen-van-foxvorge-data/id-84641-12037-7'>Scrumwise ticket </a>): https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li><br>
- 
+ Ik heb SVM(Support Vector Machine) gebruikt om een classifier te maken voor de Phoneme Boundary classifier van Koray. Na het testen van deze SVM zagen we dat accuracy, precision en recall niet goed waren(helaas, is hier geen screenshot, omdat de dataset is gewijzigd). Dit hebben we toen overlegd en uiteindelijk was Koray zijn classifier beter en zijn we niet verder gegaan met de SVM. 
+ <br>
  
   
- <li>(LSTM) tensorflow</li><br>
- De LSTM is gebruikt om zinnen van het Nederlands naar het Nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk   ook kon met woorden en daarna met klanken(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4406-lstm-en-fra-bekijken-en-toepassen-op-nl-nl-zinnen/id-84641-13599-10'> Scrumwise ticket </a>).<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
+ <li>(LSTM) Keras</li><br>
+ 
+ Ik heb het LSTM model in Keras gebruikt om een Sequence2Sequence model te maken. De LSTM is gebruikt om zinnen van Nederlands naar het Nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk ook kon met MFCC Features -> klanken. Dit was namelijk ons uiteindelijke doel.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4406-lstm-en-fra-bekijken-en-toepassen-op-nl-nl-zinnen/id-84641-13599-10'> Scrumwise ticket </a>).<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
  
  Hierna heb ik geprobeerd om met woorden van Nederlands naar het om te zetten en bij dit experiment gaf het aan dat het 80% accuracy was. Hierna is het idee om van woorden naar klanken te gaan. Hieronder staat het resultaat van het experiment met de woorden naar woorden.<br> 
  
@@ -60,10 +63,10 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
 
  
  <h2>Data preparation</h2><br>
- Voor het ophalen van data en het maken van een dictionary heb ik de volgende script geschreven <br>
+ Voor het ophalen van data en het maken van een dictionary heb ik het volgende script geschreven. Deze dictionary was nodig voor PocketSphinx.  <br>
  https://drive.google.com/open?id=1VUCTDgCSdM5k-1H6dtcS5kZqCd24fGZdh1OkAVpnb-k<br>
  
- ook voor het cleanen van de data heb ik de volgende code gebruikt: <br>
+ Voor het cleanen van de data heb ik de volgende code gebruikt: <br>
  
  https://drive.google.com/open?id=1VWy6CvHBdHIYbUxilQucKrjDkHY8dJHigvAFRkZ2y_0
  
