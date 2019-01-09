@@ -1,17 +1,17 @@
-# Portfolio Aphasia project
+# Portfolio Afasie project
  Naam student: Erik van der Caaij <br>
  Studentnummer: 15059421 <br>
  
 
  
-In dit project is er gekeken naar de mogelijkeheden om mensen met Afasie te kunnen helpen met het herstellen van een hersenbloeding. Afasie is als mensen een hersenbloeding hebben gehad in het taalcentrum waardoor mensen niet goed meer kunnen praten of bepaalde fonetische fouten maken. Voor het herstellen van deze variant van de hersenbloeding gaan mensen in sessies met een begeleider oefenen. In veel gevallen zorgt deze één op één sessie voor veel stress hierdoor gaat de spraak bij de patienten nog lastiger. Onze taak in dit project is dan ook om te kijken hoe wij eventueel door het gebruikt te maken van een computer/robot deze patienten te kunnen laten oefenen zonder dat zij deze stress mee maken. Wij proberen in dit project hoe een speech2text kan helpen bij het oefenen van mensen met Afasie en proberen deze dan te ontwikkelen. <br>
+In dit project is er gekeken naar de mogelijkheden om mensen met Afasie te kunnen helpen met het herstellen van een hersenbloeding. Afasie is als mensen een hersenbloeding hebben gehad in het taalcentrum waardoor mensen niet goed meer kunnen praten of bepaalde fonetische fouten maken. Voor het herstellen van deze variant van de hersenbloeding gaan mensen in sessies met een begeleider oefenen. In veel gevallen zorgt deze één op één sessie voor veel stress hierdoor gaat de spraak bij de patiënten nog lastiger. Onze taak in dit project is dan ook om te kijken hoe wij eventueel door het gebruikt te maken van een computer/robot deze patiënten te kunnen laten oefenen zonder dat zij deze stress mee maken. Wij proberen in dit project hoe een speech2text kan helpen bij het oefenen van mensen met Afasie en proberen deze dan te ontwikkelen. <br>
 
 In dit project wordt er gebruikt gemaakt van Scrum hierdoor weten we precies wat iedereen in het projectgroepje aan het doen is en kunnen we ook mensen erop aanspreken als bepaalde taken niet zijn uitgevoerd. Elke sprint duurt twee weken en we hebben zo'n twintig weken voor dit project.<br>
 
-Hieronder staan een aantal screenshots van de online coursers die zijn afgerond.
+Hieronder staan een aantal screenshots van de online courses die zijn afgerond. Door deze cursussen heb ik kennis verkregen over python en machine learning. 
 
 <H2> Datacamp screenshot </H2> <br>
-Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb geleerd(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3248-datacamp-python-intro-course/id-84641-10738-147'> Scrumwise ticket</a> ). Daarna heb ik dit gebruikt in het project om zo bestanden kunnen cleanen en te visualiseren. De volgende hoodstukken zijn hierbij aanbod gekomen: Intro to Pyhton for Data Science, Intermediate Python for Data Science, Customizing plots, Introduction and flat files, Writing your own functions, Python Data Science Toolbox(Part2), Data ingestion & inspection en Exploratory data. <br>
+Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb geleerd(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3248-datacamp-python-intro-course/id-84641-10738-147'> Scrumwise ticket</a> ). Daarna heb ik dit gebruikt in het project om zo bestanden kunnen cleanen en te visualiseren. De volgende hoofdstukken zijn hierbij aan bod gekomen: Intro to Python for Data Science, Intermediate Python for Data Science, Customizing plots, Introduction and flat files, Writing your own functions, Python Data Science Toolbox(Part2), Data ingestion & inspection en Exploratory data. <br>
 
 
  
@@ -19,7 +19,7 @@ Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb 
 Afbeelding1: Hier staan de cursussen die ik heb afgerond voor datacamp.<br>
 
 <h2> Coursera screenshot </H2><br>
-Coursera heb ik ook in de eerste tien weken van de deze minor afgerond om zo genoeg kennis te hebben voor de toets en te zorgen dat ik kennis genoeg heb en dit kan toepassen op het project van Afasie(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4405-coursera-maken/id-84641-13599-0'>Scrumwise ticket </a>). In Coursera heb ik week1, week2, week3 en week 6 gemaakt. Hieronder staat de screenshot met bijbehorende percentages die ik gehaald heb voor de quizzen aan het einde van een bepaald hoofdstuk.<br>
+Coursera heb ik ook in de eerste tien weken van de deze minor afgerond om zo genoeg kennis te hebben voor de toets en te zorgen dat ik kennis genoeg heb en dit kan toepassen op het project van Afasie(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4405-coursera-maken/id-84641-13599-0'>Scrumwise ticket </a>). In Coursera heb ik week1, week2, week3 en week 6 gemaakt. Hieronder staat de screenshot met bijbehorende percentages die ik gehaald heb voor de quizzen aan het einde van elk hoofdstuk.<br>
 
 ![coursera](https://user-images.githubusercontent.com/42931518/49797999-760c0180-fd41-11e8-905d-271a428a70b2.png) <br>
 Afbeelding2: Hier staan de cursussen die ik heb afgerond voor coursera.<br>
@@ -27,7 +27,7 @@ Afbeelding2: Hier staan de cursussen die ik heb afgerond voor coursera.<br>
 
  <h2> Domain knowledge(Literature, jargon, evaluation, existing data sets)</h2> <br>
  
-Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat uberhaupt Afasie is en om in te lezen in het domein.<br>
+Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van een aantal bronnen. Deze bronnen hebben we gebruikt om te zien wat überhaupt Afasie is en om in te lezen in het domein.<br>
 
  
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
@@ -36,7 +36,7 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
 
  
- In dit document is er research gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synonimen en hypniemen zijn(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat hierdoor weet om welke fouten het gaat en hoe je deze termen uitelkaar kan halen en zien wat dit betekend.
+ In dit document is er research gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synoniemen en hyponiemen zijn(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat hierdoor weet om welke fouten het gaat en hoe je deze termen uit elkaar kan halen en zien wat dit betekend.
  https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
  
  Hieronder staat het document waarin ik research heb gedaan naar literatuur en hoe zei bepaalde classiefiers gebruiken en hoe accuraat    die zijn en hoe dit eventueel in ons project gebruikt kon gaan worden(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3692-research-classificatie-algoritmes-voor-clasificere-van-diphone-clasifier/id-84641-11576-9'>Scrumwise ticket </a>). Dit heeft bijgedragen dat we een aantal van deze classifiers hebben gebruikt om te kijken hoe deze scoren met onze zelf gemaakt dataset.<br>
@@ -50,16 +50,16 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
  
   
  <li>(LSTM) tensorflow</li><br>
- De LSTM is gebruikt om zinnen van het nederlands naar het nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk   ook kon met woorden en daarna met klanken(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4406-lstm-en-fra-bekijken-en-toepassen-op-nl-nl-zinnen/id-84641-13599-10'> Scrumwise ticket </a>).<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
+ De LSTM is gebruikt om zinnen van het Nederlands naar het Nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk   ook kon met woorden en daarna met klanken(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4406-lstm-en-fra-bekijken-en-toepassen-op-nl-nl-zinnen/id-84641-13599-10'> Scrumwise ticket </a>).<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
  
- Hierna heb ik geprobeerd om met woorden van nederlands naar het om te zetten en bij dit experiment gaf het aan dat het 80% accuarcy was. Hierna is het idee om van woorden naar klanken te gaan.Hieronder staat het resultaat van het experiment met de woorden naar woorden.<br> 
+ Hierna heb ik geprobeerd om met woorden van Nederlands naar het om te zetten en bij dit experiment gaf het aan dat het 80% accuracy was. Hierna is het idee om van woorden naar klanken te gaan. Hieronder staat het resultaat van het experiment met de woorden naar woorden.<br> 
  
  [dataset MFCC -_Keras-Woorden (2).pdf](https://github.com/erikos94/Portfolio/files/2729459/dataset.MFCC.-_Keras-Woorden.2.pdf)
 
 </ul>
 
  
- <h2>Data preperation</h2><br>
+ <h2>Data preparation</h2><br>
  Voor het ophalen van data en het maken van een dictionary heb ik de volgende script geschreven <br>
  https://drive.google.com/open?id=1VUCTDgCSdM5k-1H6dtcS5kZqCd24fGZdh1OkAVpnb-k<br>
  
@@ -79,8 +79,8 @@ Tijdens het doen van Research naar wat Afasie was, is er gebruikt gemaakt van ee
 ![koray woorden plot fft](https://user-images.githubusercontent.com/42931518/49877238-42a2a300-fe25-11e8-8e69-a33dc26265dd.png)<br>
 Afbeelding4: Een plot van vijf uitgesproken woorden door Koray in FFT.<br>
 
-Dit was wel een restultaat, omdat beide plots er anders uitzien, het lijkt op dat dit iets te maken heeft met een frequentie etc, maar dit hebben we nooit goed kunnen inschatten en zijn we verder gegaan met deze woorden te plotten op een wav-file.
-Daarna heb ik deze omgezet in een audio wav, om te zien of daar bepaalde veranderingen te zien waren. <br>
+Dit was wel een resultaat, omdat beide plots er anders uitzien, het lijkt op dat dit iets te maken heeft met een frequentie etc, maar dit hebben we nooit goed kunnen inschatten en zijn we verder gegaan met deze woorden te plotten op een WAV-file.
+Daarna heb ik deze omgezet in een audio WAV, om te zien of daar bepaalde veranderingen te zien waren. <br>
 
 Dit is voor vijf ingesproken woorden door Erik.
 ![wav files woorden_erik](https://user-images.githubusercontent.com/42931518/49878716-8cd95380-fe28-11e8-98ff-bb6f2c37c38f.png) <br>
@@ -94,31 +94,30 @@ Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken
 
 
  <h2> Data collection </h2><br>
- We zijn met de data collection vrij lang beziggeweest ,omdat we eerst dachten dat we de data van onze opdrachtgever vroeg zouden krijgen en aan de slag te kunnen gaan. Achteraf bleek de data die we hebben gekregen niet te voldoen aan de eisen om een Speech2text te maken. 
+ We zijn met de data collection vrij lang bezig geweest ,omdat we eerst dachten dat we de data van onze opdrachtgever vroeg zouden krijgen en aan de slag te kunnen gaan. Achteraf bleek de data die we hebben gekregen niet te voldoen aan de eisen om een Speech2text te maken. 
  
- We hebben veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen inspreken zodat we deze kunnen gebruiken om bepaalde boundaries te vinden. <b> link naar audio opnamens</b> Deze heb ik samen met Koray ingesproken.
+ We hebben veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen inspreken zodat we deze kunnen gebruiken om bepaalde boundaries te vinden. <b> link naar audio opnames</b> Deze heb ik samen met Koray ingesproken.
 
 Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam). http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFAcorpus/
 
-Deze dataset is 1.8GB groot hebben we doormiddel van een scraper die Koray had gemaakt van de site afgehaald zodat we in iedergeval data hadden waarmee we aan de slag konden. 
+Deze dataset is 1.8GB groot hebben we doormiddel van een scraper die Koray had gemaakt van de site afgehaald zodat we in ieder geval data hadden waarmee we aan de slag konden. 
 
  
- <h2> Evaluation:precision recall </h2><br>
-  <h2> Diagnostics of the learning proces :learning rate, loss function, overfitting and underfitting </h2><br>
-  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het engels werd vertaald naar het frans(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4407-seq2seq-bekijken-en-zien-hoe-we-dit-kunnen-toepassen-op-afasie/id-84641-13599-17'>Scrumwise ticket </a>). Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingswekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
+<h2> Diagnostics of the learning process :learning rate, loss function, overfitting and under fitting </h2><br>
+ Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het Engels werd vertaald naar het frans(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4407-seq2seq-bekijken-en-zien-hoe-we-dit-kunnen-toepassen-op-afasie/id-84641-13599-17'>Scrumwise ticket </a>). Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingwekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
 
 ![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691690-c5d4a480-1031-11e9-8320-2bd3dff64bfc.png)<br>
-Afbeelding7: EEn plot van de accuracy van het experiment van Seq2seq van nederlandse zinnen.<br>
+Afbeelding7: EEn plot van de accuracy van het experiment van Seq2seq van Nederlandse zinnen.<br>
 
 ![loss_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691687-c5d4a480-1031-11e9-989f-5056d3947158.png)<br>
-Afbeelding8: Een plot van de Loss van het experiment van Seq2seq van nederlandse zinnen.<br>
+Afbeelding8: Een plot van de Loss van het experiment van Seq2seq van Nederlandse zinnen.<br>
 
 ![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691688-c5d4a480-1031-11e9-8205-c2cc8939fa56.png)<br>
-Afbeelding9: Een plot van de output van de het LSTM model voor de Seq2seq van de nederlandse zinnen.<br>
+Afbeelding9: Een plot van de output van de het LSTM model voor de Seq2seq van de Nederlandse zinnen.<br>
 
-Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden gegenereerd. Deze hebben we als input meegegeven aan de LSTM en deze gaf ongeveer zo'n 80% goede uitkomst. <b> plaatje invoegen </b> Dat gaf dus veel hoop om dit ook te proberen met fonemen, zodat we konden kijken we zinnen in fonemen konden uitsplitten.
+Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden gegenereerd. Deze hebben we als input meegegeven aan de LSTM en deze gaf ongeveer zo'n 80% goede uitkomst. <b> plaatje invoegen </b> Dat gaf dus veel hoop om dit ook te proberen met fonemen, zodat we konden kijken we zinnen in fonemen konden uitsplitsten.
   
- <h2> Comunication (presentations, summaries, paper) </h2><br>
+ <h2> Communication (presentations, summaries, paper) </h2><br>
  
  <b> paper: </b>
  <b> presentations </b>
@@ -134,7 +133,7 @@ Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden g
 <h2>List the tickets from the Scrum backlog that you worked on, linked to deliverables, own experiments, etc.
 Add any other assignment you feel is evidence of your abilities </h2><br>
 
-Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voor gezorgd dat iedereen zijn sterke punten kon benutten hierdoor heb ik meer documentatie werk gedaan dan andere. Hieronder een lijst wat ik denk dat wel toegevoegde waarde is geweest aan dit project. <br>
+Omdat wij tijdens dit project de hele tijd met zijn vieren waren hebben we er voor gezorgd dat iedereen zijn sterke punten kon benutten hierdoor heb ik meer documentatie werk gedaan dan andere. Hieronder een lijst wat ik denk dat wel toegevoegde waarde is geweest aan dit project. <br>
 
 
 <ul>
@@ -144,7 +143,7 @@ Omdat wij tijdens dit project de heletijd met zijn vieren waren hebben we er voo
 
 <li>
  <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.https://drive.google.com/open?id=1DSQH6HAD78IJ_G9AbMLu1JIcBfVK_flhk0uPyBZaF6Q</li>
- <li> Dataset achterhaalt (gesproken corpus nederlands)</li>
+ <li> Dataset achterhaalt (gesproken corpus Nederlands)</li>
  <li>speech2text met google api [Api google code.docx](https://github.com/erikos94/Portfolio/files/2736965/Api.google.code.docx)</li>
  <li>Ook was ik scrummaster dit hele project en heb ik de scrum sessie geleid. </li>
  <li>notuleren</li>
