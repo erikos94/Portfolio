@@ -71,13 +71,19 @@ Toen heb ik samen met Jeroen de code aangepast, zodat er meer data ingeladen kon
 
  
  <h2>Data preparation</h2><br>
- Voor het ophalen van data en het maken van een dictionary heb ik het volgende script geschreven. Deze dictionary was nodig voor PocketSphinx. Deze dictonary is gebruikt om een lijst van woorden te genereren en deze aan pocketsphinx te geven zodat hij deze woorden gaat herkennen. Daarnaast waren er nog meerdere modellen nodig om een werkend Speech regonition systeem te bouwen(acoustic model, phonetic dictionary en language model). <br>
+ Voor het ophalen van data en het maken van een dictionary heb ik het volgende script geschreven. Deze dictionary was nodig voor PocketSphinx. Deze dictonary is gebruikt om een lijst van woorden te genereren en deze aan pocketsphinx te geven zodat hij deze woorden gaat herkennen. Daarnaast waren er nog meerdere modellen nodig om een werkend Speech regonition systeem te bouwen(acoustic model, phonetic dictionary en language model). <br><br>
+ 
  [lijst maken van woorden voor dictonary.pdf](https://github.com/erikos94/Portfolio/files/2744891/lijst.maken.van.woorden.voor.dictonary.pdf)<br>
  
  Daarnaast kon Pocketsphinx niet overweg met een aantal speciale characters dus deze heb ik weggehaald uit het bestand door de volgende code: Hierdoor herkende Pocketsphinx deze tekens wel.
  <br>
  
 [code voor cleanen woordfile.pdf](https://github.com/erikos94/Portfolio/files/2744899/code.voor.cleanen.woordfile.pdf)
+
+Daarnaast heb ik ook een stukje geschreven om een [woord] [klank] achter elkaar te krijgen. Dit stond namelijk achter elkaar en elke [woord] [klank] moest op een nieuwe regel beginnen, dus heb ik dit stukje code geschreven. Dit konden we dan gebruiken voor ons model van PocketSphinx. 
+[[Woord] [klank] cleanen..pdf](https://github.com/erikos94/Portfolio/files/2745847/Woord.klank.cleanen.pdf)
+ 
+
  
  <h2> Data Visualization </h2><br>
  
