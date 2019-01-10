@@ -33,7 +33,8 @@ Tijdens het doen van Research naar wat Afasie is heb ik gebruikt gemaakt van een
  Hieronder Staan een aantal documenten die te maken hebben met research doen naar het domein.<br>
  
  In dit document is er research gedaan naar wat Afasie precies is en of het bijvoorbeeld over kan gaan. Daarnaast heb ik gekeken of er bepaalde woorden zijn waar Afasie vaker bij optreed.  (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3224-deskresearch-afasie/id-84641-10738-18'> Scrumwise ticket </a>).
- [Deskresearch Afasie_Erik.docx](https://github.com/erikos94/Portfolio/files/2667461/Deskresearch.Afasie_Erik.docx) <br>
+[Deskresearch.Afasie_Erik (1).pdf](https://github.com/erikos94/Portfolio/files/2744856/Deskresearch.Afasie_Erik.1.pdf)
+ <br>
  
  
 Ik heb in het onderstaande document onderzoek gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synoniemen en hyponiemen zijn. Dit heb ik met de rest van de groep gedeeld, omdat deze begrippen veel worden gebruikt in dit domein.In(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat ik hierdoor weet om welke fouten het gaat en hoe je deze termen uit elkaar kan halen en zien wat dit betekend.
