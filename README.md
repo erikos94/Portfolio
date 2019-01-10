@@ -15,7 +15,7 @@ Hier heb ik de eerste tien weken aanbesteed met als resultaat dat ik python heb 
 
 
  
-![datacamp](https://user-images.githubusercontent.com/42931518/45440797-96361100-b6bd-11e8-9627-4e748ec38698.jpg)<br>
+![datacamp assignments](https://user-images.githubusercontent.com/42931518/50977664-07ae9080-14f3-11e9-9238-3efd6134bab5.png)<br>
 Afbeelding1: Hier staan de cursussen die ik heb afgerond voor datacamp.<br>
 
 <h2> Coursera screenshot </H2><br>
