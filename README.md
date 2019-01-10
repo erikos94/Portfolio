@@ -41,8 +41,7 @@ Ik heb in het onderstaande document onderzoek gedaan naar wat fonologie, syntaxi
 [Research deelvragen Erik(concept) (1).pdf](https://github.com/erikos94/Portfolio/files/2744870/Research.deelvragen.Erik.concept.1.pdf) <br>
  
 Hieronder staat het document waarin ik research heb gedaan naar classifiers. Hierbij heb ik gekeken naar hoe ik bepaalde classifiers kan gebruiken en hoe accuraat deze zijn. Hiervoor heb ik wetenschappelijk artikelen gebruikt. Daarnaast heb ik de link gelegd om te zien of we deze classifiers uit de literatuur konden gebruiken voor ons project. We hebben uit de literatuur de hoogst scorende classifiers gehaald en deze hebben wij toegepast op ons project.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3692-research-classificatie-algoritmes-voor-clasificere-van-diphone-clasifier/id-84641-11576-9'>Scrumwise ticket </a>). <br>
- 
- https://drive.google.com/open?id=13leNNydpd_EampEnIj_HkgvUG4eO3CMx
+ [Research voor classifier en phoneme boundary.pdf](https://github.com/erikos94/Portfolio/files/2744877/Research.voor.classifier.en.phoneme.boundary.pdf)
  
 <h2>Predictive Models</h2><br>
 Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of deze werkten voor ons project.
