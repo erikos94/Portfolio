@@ -64,11 +64,11 @@ Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of
  
  <h2>Data preparation</h2><br>
  Voor het ophalen van data en het maken van een dictionary heb ik het volgende script geschreven. Deze dictionary was nodig voor PocketSphinx.  <br>
- https://drive.google.com/open?id=1VUCTDgCSdM5k-1H6dtcS5kZqCd24fGZdh1OkAVpnb-k<br>
+ [lijst maken van woorden voor dictonary.pdf](https://github.com/erikos94/Portfolio/files/2744891/lijst.maken.van.woorden.voor.dictonary.pdf)<br>
  
  Voor het cleanen van de data heb ik de volgende code gebruikt: <br>
  
- https://drive.google.com/open?id=1VWy6CvHBdHIYbUxilQucKrjDkHY8dJHigvAFRkZ2y_0
+[code voor cleanen woordfile.pdf](https://github.com/erikos94/Portfolio/files/2744899/code.voor.cleanen.woordfile.pdf)
  
  <h2> Data Visualization </h2><br>
  
