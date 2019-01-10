@@ -112,7 +112,7 @@ De bovenstaande WAV files kunnen doormiddel van een library dus makkelijk gevisu
  <h2> Data collection </h2><br>
  
  We zijn met de data collection vrij lang bezig geweest, omdat we eerst dachten dat we de data van onze opdrachtgever vroeg zouden krijgen en hiermee aan de slag konden gaan. Dit bleek achteraf niet het geval, want de data die we kregen waren alleen WAV files van mensen met Afasie. Voor een Speech Recognition systeem heb je WAV files nodig, maar ook getransribeerde tekst die erbij hoord en timestamps van de woorden die worden gezegd. Daarom hebben we veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen in hebben gesproken.  
- <b> link naar audio opnames</b> 
+ 
 
 Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam). http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFAcorpus/ (<a href='https://www.scrumwise.com/scrum/#/backlog-item/4408-research-naar-datasets/id-84641-13655-1'>Scrumwise Ticket </a>)
 
