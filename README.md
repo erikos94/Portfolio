@@ -46,7 +46,7 @@ Hieronder staat het document waarin ik research heb gedaan naar classifiers. Hie
 <h2>Predictive Models</h2><br>
 Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of deze werkten voor ons project.
 <ul>
- <li>SVM(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3851-classifier-trainen-met-10-zinnen-van-foxvorge-data/id-84641-12037-7'>Scrumwise ticket </a>): https://drive.google.com/open?id=1bSXZBj-65xlChK22W-27ZsLZDlsUnbb-u6b9QfyC-Fs</li><br>
+ <li>SVM(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3851-classifier-trainen-met-10-zinnen-van-foxvorge-data/id-84641-12037-7'>Scrumwise ticket </a>):[SVM.pdf](https://github.com/erikos94/Portfolio/files/2744881/SVM.pdf)</li><br>
  Ik heb SVM(Support Vector Machine) gebruikt om een classifier te maken voor de Phoneme Boundary classifier van Koray. Na het testen van deze SVM zagen we dat accuracy, precision en recall niet goed waren(helaas, is hier geen screenshot, omdat de dataset is gewijzigd). Dit hebben we toen overlegd en uiteindelijk was Koray zijn classifier beter en zijn we niet verder gegaan met de SVM. 
  <br>
  
