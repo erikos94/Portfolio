@@ -126,13 +126,13 @@ Het corpus gesproken Nederlands omvat ongeveer 10miljoen Nederlandse woorden waa
  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het Engels werd vertaald naar het frans(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4407-seq2seq-bekijken-en-zien-hoe-we-dit-kunnen-toepassen-op-afasie/id-84641-13599-17'>Scrumwise ticket </a>). Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingwekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
 
 ![acc_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691690-c5d4a480-1031-11e9-8320-2bd3dff64bfc.png)<br>
-Afbeelding7: EEn plot van de accuracy van het experiment van Seq2seq van Nederlandse zinnen.<br>
+Afbeelding7: Een plot van de accuracy van train en de test(validatie)dataset voor een LSTM model van Nederlandse zin naar een Nederlandse zin(X=epochs, y=accuracy).<br>
 
 ![loss_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691687-c5d4a480-1031-11e9-989f-5056d3947158.png)<br>
-Afbeelding8: Een plot van de Loss van het experiment van Seq2seq van Nederlandse zinnen.<br>
+Afbeelding8:Een plot van de loss van train en de test(validatie)dataset voor een LSTM model van Nederlandse zin naar een Nederlandse zin(X=epochs, y=accuracy)<br>
 
 ![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691688-c5d4a480-1031-11e9-8205-c2cc8939fa56.png)<br>
-Afbeelding9: Een plot van de output van de het LSTM model voor de Seq2seq van de Nederlandse zinnen.<br>
+Afbeelding9: Een plot van de output van een LSTM model van Nederlandse zin naar een Nederlandse zin over de test(validatie) dataset.<br>
 
 Doordat dit model goed werkte heb ik toen als input de MFCC features genomen en als output de Nederlandse woorden. De accuracy gaf aan dat dit 80% was alleen de output gaf een foutmelding. Hierdoor kon ik niet zien of dit wel klopte. Na dit opgelost te hebben met Jeroen zagen we dat de output helemaal niet overeen kwam met input. Hierdoor zijn we aan het kijken hoe we dit beter kunnen krijgen. 
   
@@ -147,9 +147,6 @@ Doordat dit model goed werkte heb ik toen als input de MFCC features genomen en 
 <li> week 9: [Kopie van Aphasia week 9.pdf](https://github.com/erikos94/Portfolio/files/2744918/Kopie.van.Aphasia.week.9.pdf)<br></li>
 <li> week 14:[Aphasia week 14.pdf](https://github.com/erikos94/Portfolio/files/2744919/Aphasia.week.14.pdf)<br></li>
 
- 
- 
-<h2>Link to the Python Notebooks you have finished (you can dump them to PDF)</h2>
 <h2>List the tickets from the Scrum backlog that you worked on, linked to deliverables, own experiments, etc.
 Add any other assignment you feel is evidence of your abilities </h2><br>
 
