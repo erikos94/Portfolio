@@ -142,7 +142,7 @@ Doordat dit model goed werkte heb ik toen als input de MFCC features genomen en 
  
  <b> paper: </b> <br>
  
- <b>Ik heb zoals met de rest van de groep aan alle presentaties meegewerkt om deze te maken. Daarnaast heb ik vier presentations gehouden. De presenaties die ik heb gehouden staan hieronder genoemd. </b>
+ Ik heb zoals met de rest van de groep aan alle presentaties meegewerkt om deze te maken. Daarnaast heb ik vier presentations gehouden. De presenaties die ik heb gehouden staan hieronder genoemd.
 
 <li>Week 5: [Kopie van Aphasia week5.pdf](https://github.com/erikos94/Portfolio/files/2744916/Kopie.van.Aphasia.week5.pdf) <br></li>
 <li> Week 7:[_Aphasia week7.pdf](https://github.com/erikos94/Portfolio/files/2744917/_Aphasia.week7.pdf)<br></li>
