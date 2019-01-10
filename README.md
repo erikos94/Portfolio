@@ -140,12 +140,13 @@ Omdat wij tijdens dit project de hele tijd met zijn vieren waren hebben we er vo
 
 
 <ul>
- <li>Ik heb een plan van aanpak gemaakt: https://drive.google.com/open?id=1P7V9aLiVGaIaEyQCiOoEW5HxmrPvOt8m (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3266-pva-maken/id-84641-10790-7'> Scrumwise ticket </a>)</li>
- <li>Ik heb een Interviewprotocool opgesteld: https://drive.google.com/open?id=1Tpcp2mWAdArX_iFhqvBKPpRbh99Z6bQ4rydBEV8Bbkg (<a href='https://www.scrumwise.com/scrum/#/task/5022-interview-protocol-opstellen/id-84641-10738-102'> Scrumwise ticket</a>) </li>
+ <li>Ik heb een plan van aanpak gemaakt: 
+[Plan van aanpak_AfasieDEF.pdf](https://github.com/erikos94/Portfolio/files/2744938/Plan.van.aanpak_AfasieDEF.pdf) (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3266-pva-maken/id-84641-10790-7'> Scrumwise ticket </a>)</li>
+ <li>Ik heb een Interviewprotocool opgesteld: [Interviewprotocol - AfasieExpert.pdf](https://github.com/erikos94/Portfolio/files/2744943/Interviewprotocol.-.AfasieExpert.pdf) (<a href='https://www.scrumwise.com/scrum/#/task/5022-interview-protocol-opstellen/id-84641-10738-102'> Scrumwise ticket</a>) </li>
  <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. [Klanken samenvatting CMUSPHINX(PORTFOLIO).docx](https://github.com/erikos94/Portfolio/files/2729482/Klanken.samenvatting.CMUSPHINX.PORTFOLIO.docx) (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3523-find-out-more-about-phonemes-the-origin-and-how-they-work/id-84641-11280-0'> Scrumwise ticket </a>)
 
 <li>
- <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.https://drive.google.com/open?id=1DSQH6HAD78IJ_G9AbMLu1JIcBfVK_flhk0uPyBZaF6Q</li>
+ <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.[Schema welke goed.pdf](https://github.com/erikos94/Portfolio/files/2744945/Schema.welke.goed.pdf)</li>
  <li> Dataset achterhaalt (gesproken corpus Nederlands)</li>
  <li>speech2text met google api [Api google code.docx](https://github.com/erikos94/Portfolio/files/2736965/Api.google.code.docx)</li>
 <ul>
