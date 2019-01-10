@@ -38,7 +38,7 @@ Tijdens het doen van Research naar wat Afasie is heb ik gebruikt gemaakt van een
  
  
 Ik heb in het onderstaande document onderzoek gedaan naar wat fonologie, syntaxis, semantiek, antoniemen, synoniemen en hyponiemen zijn. Dit heb ik met de rest van de groep gedeeld, omdat deze begrippen veel worden gebruikt in dit domein.In(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3323-in-hoeverre-kan-er-via-bestaande-stt-drie-types-fouten-worden-opgelostsemantic/id-84641-10884-56'>Scrumwise ticket </a>). Dit heeft bijgedragen aan het project, omdat ik hierdoor weet om welke fouten het gaat en hoe je deze termen uit elkaar kan halen en zien wat dit betekend.
- https://drive.google.com/open?id=1Oo1BrPX9Rl-q8XALkE39Kr9M3movlpzA 
+[Research deelvragen Erik(concept) (1).pdf](https://github.com/erikos94/Portfolio/files/2744870/Research.deelvragen.Erik.concept.1.pdf) <br>
  
 Hieronder staat het document waarin ik research heb gedaan naar classifiers. Hierbij heb ik gekeken naar hoe ik bepaalde classifiers kan gebruiken en hoe accuraat deze zijn. Hiervoor heb ik wetenschappelijk artikelen gebruikt. Daarnaast heb ik de link gelegd om te zien of we deze classifiers uit de literatuur konden gebruiken voor ons project. We hebben uit de literatuur de hoogst scorende classifiers gehaald en deze hebben wij toegepast op ons project.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3692-research-classificatie-algoritmes-voor-clasificere-van-diphone-clasifier/id-84641-11576-9'>Scrumwise ticket </a>). <br>
  
