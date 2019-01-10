@@ -125,10 +125,10 @@ Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden g
  <b> paper: </b>
  <b> presentations </b>
 
-<li>Week 5: https://drive.google.com/open?id=1LTQ1qC7WCMWQCBOAMHP2-zoP1kSOJ_pJ-iCz9XHRlM4 <br></li>
-<li> Week 7: https://drive.google.com/open?id=1kc2vpfFzrVpF5ZZYKZ_q40-oPAyFXuui--qmEfO9Oz8<br></li>
-<li> week 9: https://drive.google.com/open?id=1DMURc9o1ilJxbFun1z4FlDX9dX4VIfMDrEaKX4mk9-E<br></li>
-<li> week 14:https://drive.google.com/open?id=1QvgprRupfHHyXJjVTP4y33QZ_YZtDWr3axN3W_Eh0wc<br></li>
+<li>Week 5: [Kopie van Aphasia week5.pdf](https://github.com/erikos94/Portfolio/files/2744916/Kopie.van.Aphasia.week5.pdf) <br></li>
+<li> Week 7:[_Aphasia week7.pdf](https://github.com/erikos94/Portfolio/files/2744917/_Aphasia.week7.pdf)<br></li>
+<li> week 9: [Kopie van Aphasia week 9.pdf](https://github.com/erikos94/Portfolio/files/2744918/Kopie.van.Aphasia.week.9.pdf)<br></li>
+<li> week 14:[Aphasia week 14.pdf](https://github.com/erikos94/Portfolio/files/2744919/Aphasia.week.14.pdf)<br></li>
 
  
  
