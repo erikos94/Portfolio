@@ -55,7 +55,9 @@ Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of
  
  Ik heb het LSTM model in Keras gebruikt om een Sequence2Sequence model te maken. De LSTM is gebruikt om zinnen van Nederlands naar het Nederlands te vertalen. Dit was een experiment om te zien of dit uiteindelijk ook kon met MFCC Features -> klanken. Dit was namelijk ons uiteindelijke doel.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4406-lstm-en-fra-bekijken-en-toepassen-op-nl-nl-zinnen/id-84641-13599-10'> Scrumwise ticket </a>).<br> [dataset MFCC -_keras.pdf](https://github.com/erikos94/Portfolio/files/2729455/dataset.MFCC.-_keras.pdf)<br><br>
  
- Hierna heb ik geprobeerd om met woorden van Nederlands naar het om te zetten en bij dit experiment gaf het aan dat het 80% accuracy was. Hierna is het idee om van woorden naar klanken te gaan. Hieronder staat het resultaat van het experiment met de woorden naar woorden.<br> 
+ Hierna heb ik geprobeerd om van MFCC features naar woorden te gaan. Het model gaf aan dat het 80% accuraat was, maar omdat dat code was veranderd kreeg ik een foutmelding bij het gebruiken van de output. Toen ik dit had opgelost bleek dat de 80% een verkeerd beeld had gegeven. De worden die eruit kwamen, kwamen helemaal niet overeen met de woorden die erin gingen.
+ 
+Toen heb ik samen met Jeroen de code aangepast, zodat er meer data ingeladen kon worden en hebben we dropouts toegevoegd en hebben we daarna ook nog een attention model geprobeerd, maar dit gaf ook niet het gewenste resultaat en de resultaten bleven slecht.<br> 
  
  [dataset MFCC -_Keras-Woorden (2).pdf](https://github.com/erikos94/Portfolio/files/2729459/dataset.MFCC.-_Keras-Woorden.2.pdf)
 
@@ -63,18 +65,19 @@ Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of
 
  
  <h2>Data preparation</h2><br>
- Voor het ophalen van data en het maken van een dictionary heb ik het volgende script geschreven. Deze dictionary was nodig voor PocketSphinx.  <br>
+ Voor het ophalen van data en het maken van een dictionary heb ik het volgende script geschreven. Deze dictionary was nodig voor PocketSphinx. Deze dictonary is gebruikt om een lijst van woorden te genereren en deze aan pocketsphinx te geven zodat hij deze woorden gaat herkennen. Daarnaast waren er nog meerdere modellen nodig om een werkend Speech regonition systeem te bouwen(acoustic model, phonetic dictionary en language model). <br>
  [lijst maken van woorden voor dictonary.pdf](https://github.com/erikos94/Portfolio/files/2744891/lijst.maken.van.woorden.voor.dictonary.pdf)<br>
  
- Voor het cleanen van de data heb ik de volgende code gebruikt: <br>
+ Daarnaast kon Pocketsphinx niet overweg met een aantal speciale characters dus deze heb ik weggehaald uit het bestand door de volgende code: Hierdoor herkende Pocketsphinx deze tekens wel.
+ <br>
  
 [code voor cleanen woordfile.pdf](https://github.com/erikos94/Portfolio/files/2744899/code.voor.cleanen.woordfile.pdf)
  
  <h2> Data Visualization </h2><br>
  
- We hebben eigenlijk data visualization kunnen toepassen vanaf ongeveer week 12, omdat we elke keer geen goede dataset hadden. Met geen goede dataset bedoelen we dat we geen timestamps hadden per woord. Dit kon ook niet gegenereerd worden, omdat deze vaak niet accuraat was. <br>
- 
- Tijdens het project hebben we een experiment gaan doen met een pipeline. Deze pipeline zou van een fourier transfrom (FFT) over een audio signaal uitvoeren. Dus hierbij hebben we het proberen te plotten om te zien wat dit precies inhield en hoe we dit moesten interpreteren.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3772-voorbeeld-creeren-visualisatie-van-fft-en-mfcc/id-84641-11988-34'>Scrumwise ticket </a>) <br>
+We hebben verschillende papers bekeken hoe we van een audiosignaal naar features kunnen komen. Daarvoor hebben we meerdere "pipelines" kunnen vinden in wetenschappelijke artikelen. Om te zien wat precies de FFT en MFCC doet hebben Koray en ik een aantal woorden ingesproken in deze weergegeven in een plot. We wisten al wat het deed, alleen nog niet hoe de visualisatie eruit zag en of we aan de hand hiervan nieuwe inzichten kregen. (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3772-voorbeeld-creeren-visualisatie-van-fft-en-mfcc/id-84641-11988-34'>Scrumwise ticket </a>) <br>
+
+Dit heeft ons geholpen om een beeld te vormen over FFT. Hieronder staan een aantal voorbeelden hoe dit eruit ziet.
  
 ![erik woorden plot fft](https://user-images.githubusercontent.com/42931518/49877233-41717600-fe25-11e8-88ac-daa86d9511de.png)<br>
  Afbeelding3: Een plot van vijf uitgesproken woorden door Erik in FFT.<br>
@@ -82,8 +85,7 @@ Hieronder staan een aantal predictive models die ik heb geprobeerd om te zien of
 ![koray woorden plot fft](https://user-images.githubusercontent.com/42931518/49877238-42a2a300-fe25-11e8-8e69-a33dc26265dd.png)<br>
 Afbeelding4: Een plot van vijf uitgesproken woorden door Koray in FFT.<br>
 
-Dit was wel een resultaat, omdat beide plots er anders uitzien, het lijkt op dat dit iets te maken heeft met een frequentie etc, maar dit hebben we nooit goed kunnen inschatten en zijn we verder gegaan met deze woorden te plotten op een WAV-file.
-Daarna heb ik deze omgezet in een audio WAV, om te zien of daar bepaalde veranderingen te zien waren. <br>
+We weten alleen niet precies wat dit resultaat inhoud, maar omdat beide plots er anders uitzien denken we dat het iets te maken heeft met de frequenctie toon. Daarna hebben we deze woorden ook nog is een keer in een WAV file geplot om te zien of hier iets opvallends is, maar dit viel ook alles mee. Je kan goed zien dat de ene sneller de woorden heeft uitgesproken dan de ander.
 
 Dit is voor vijf ingesproken woorden door Erik.
 ![wav files woorden_erik](https://user-images.githubusercontent.com/42931518/49878716-8cd95380-fe28-11e8-98ff-bb6f2c37c38f.png) <br>
@@ -93,18 +95,20 @@ Dit is voor vijf ingesproken woorden door Koray.
 ![koray woorden wav](https://user-images.githubusercontent.com/42931518/49878714-8a76f980-fe28-11e8-8c58-c74d47b60d93.png)<br>
 Afbeelding6: Een plot van vijf uitgesproken woorden door Koray in Wav.<br>
 
-Hieraan is af te zien dat we de woorden sneller/ langzamer dan elkaar uitspreken en waarschijnlijk ook op een andere frequentie, maar kunnen we hier niet goed van interpreteren. Wat uiteindelijk het resultaat hiervan is, is dat we weten hoe je een FFT kan gebruiken over een audio file en wat je met die library kan doen.
-
+De bovenstaande WAV files kunnen doormiddel van een library dus makkelijk gevisualiseerd worden, alleen zie ik niet echt aan de voorkant van wat er gebeurd. 
 
  <h2> Data collection </h2><br>
- We zijn met de data collection vrij lang bezig geweest ,omdat we eerst dachten dat we de data van onze opdrachtgever vroeg zouden krijgen en aan de slag te kunnen gaan. Achteraf bleek de data die we hebben gekregen niet te voldoen aan de eisen om een Speech2text te maken. 
  
- We hebben veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen inspreken zodat we deze kunnen gebruiken om bepaalde boundaries te vinden. <b> link naar audio opnames</b> Deze heb ik samen met Koray ingesproken.
+ We zijn met de data collection vrij lang bezig geweest, omdat we eerst dachten dat we de data van onze opdrachtgever vroeg zouden krijgen en hiermee aan de slag konden gaan. Dit bleek achteraf niet het geval, want de data die we kregen waren alleen WAV files van mensen met Afasie. Voor een Speech Recognition systeem heb je WAV files nodig, maar ook getransribeerde tekst die erbij hoord en timestamps van de woorden die worden gezegd. Daarom hebben we veel kleine testjes gedaan met opgenomen audio waarin wij bepaalde woorden of getallen in hebben gesproken.  
+ <b> link naar audio opnames</b> 
 
-Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam). http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFAcorpus/
+Ook heb ik research gedaan naar een database met audio die we zouden kunnen gebruiken en hierbij kwam ik uit op de site van de UVA(universiteit van Amsterdam). http://www.fon.hum.uva.nl/IFA-SpokenLanguageCorpora/IFAcorpus/ (<a href='https://www.scrumwise.com/scrum/#/backlog-item/4408-research-naar-datasets/id-84641-13655-1'>Scrumwise Ticket </a>)
 
 Deze dataset is 1.8GB groot hebben we doormiddel van een scraper die Koray had gemaakt van de site afgehaald zodat we in ieder geval data hadden waarmee we aan de slag konden. 
 
+Daarnaast hebben we in week 14 een dataset gevonden. Deze dataset werd in veel experimenten genoemd, maar er werd ook bij genoemd dat deze dataset €100,- kostte. Deze hadden we ook eerder in het project gevonden, maar omdat we net begonnen waren hebben we deze niet meteen geopperd. Na het overwegen om deze dataset te komen, kwamen we erachter dat deze dataset gratis te downloaden was. 
+
+Het corpus gesproken Nederlands omvat ongeveer 10miljoen Nederlandse woorden waarvan er 250.000 woorden ook geannoteerd en gecontroleerd zijn. Hierbij wordt bedoeld dat een klein deel van de corpus audio heeft met bijbehorende uitgeschreven zinnen, woorden en timestamps en zelfs phonemen.(<a href='https://www.scrumwise.com/scrum/#/backlog-item/3852-research-cgn-dataset-achterhalen/id-84641-12037-13'<Scrumwise ticket </a>)
  
 <h2> Diagnostics of the learning process :learning rate, loss function, overfitting and under fitting </h2><br>
  Ik had een voorbeeld gevonden van een Seq2seq (sequence to sequence) waarin een zin in het Engels werd vertaald naar het frans(<a href='https://www.scrumwise.com/scrum/#/backlog-item/4407-seq2seq-bekijken-en-zien-hoe-we-dit-kunnen-toepassen-op-afasie/id-84641-13599-17'>Scrumwise ticket </a>). Hier ben ik een beetje mee gaan spelen om te zien of dit ook gebruikt kan worden voor ons project. De resultaten waren verbazingwekkend goed. Zie hieronder: <br> In de plaatsjes is de test lijn eigenlijk de validatie. Dus in de volgende plaatjes is het train en validatie.
@@ -118,12 +122,13 @@ Afbeelding8: Een plot van de Loss van het experiment van Seq2seq van Nederlandse
 ![output_zinnen_nl](https://user-images.githubusercontent.com/42931518/50691688-c5d4a480-1031-11e9-8205-c2cc8939fa56.png)<br>
 Afbeelding9: Een plot van de output van de het LSTM model voor de Seq2seq van de Nederlandse zinnen.<br>
 
-Daarna hebben we de dataset die we hadden omgeschreven zodat er woorden worden gegenereerd. Deze hebben we als input meegegeven aan de LSTM en deze gaf ongeveer zo'n 80% goede uitkomst. <b> plaatje invoegen </b> Dat gaf dus veel hoop om dit ook te proberen met fonemen, zodat we konden kijken we zinnen in fonemen konden uitsplitsten.
+Doordat dit model goed werkte heb ik toen als input de MFCC features genomen en als output de Nederlandse woorden. De accuracy gaf aan dat dit 80% was alleen de output gaf een foutmelding. Hierdoor kon ik niet zien of dit wel klopte. Na dit opgelost te hebben met Jeroen zagen we dat de output helemaal niet overeen kwam met input. Hierdoor zijn we aan het kijken hoe we dit beter kunnen krijgen. 
   
  <h2> Communication (presentations, summaries, paper) </h2><br>
  
- <b> paper: </b>
- <b> presentations </b>
+ <b> paper: </b> <br>
+ 
+ <b>Ik heb zoals met de rest van de groep aan alle presentaties meegewerkt om deze te maken. Daarnaast heb ik vier presentations gehouden. De presenaties die ik heb gehouden staan hieronder genoemd. </b>
 
 <li>Week 5: [Kopie van Aphasia week5.pdf](https://github.com/erikos94/Portfolio/files/2744916/Kopie.van.Aphasia.week5.pdf) <br></li>
 <li> Week 7:[_Aphasia week7.pdf](https://github.com/erikos94/Portfolio/files/2744917/_Aphasia.week7.pdf)<br></li>
@@ -140,13 +145,15 @@ Omdat wij tijdens dit project de hele tijd met zijn vieren waren hebben we er vo
 
 
 <ul>
- <li>Ik heb een plan van aanpak gemaakt: 
+ <li> Ik heb een plan van aanpak gemaakt, omdat dit altijd nodig is in een begin van een project. Dit is omdat men dan weet wat het probleem is en welk stuk je afbakend. Daarnaast wil je opdezelfde lijn zitten als de opdrachtgever met het project en hierdoor weet je of je de opdracht goed hebt begrepen. Het plan van aanpak staat hier:  
 [Plan van aanpak_AfasieDEF.pdf](https://github.com/erikos94/Portfolio/files/2744938/Plan.van.aanpak_AfasieDEF.pdf) (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3266-pva-maken/id-84641-10790-7'> Scrumwise ticket </a>)</li>
- <li>Ik heb een Interviewprotocool opgesteld: [Interviewprotocol - AfasieExpert.pdf](https://github.com/erikos94/Portfolio/files/2744943/Interviewprotocol.-.AfasieExpert.pdf) (<a href='https://www.scrumwise.com/scrum/#/task/5022-interview-protocol-opstellen/id-84641-10738-102'> Scrumwise ticket</a>) </li>
+ 
+ <li>
+ Ik heb een interviewprotocool opgesteld, omdat ik het belangrijk vond dat we van tervoren al research hadden gedaan over het project zodat we in het interview gerichtere vragen konden stellen. Daarnaast laat het je dan ook denken over een aantal aspecten waar je van tervoren niet over hebt nagedacht. Bijvoorbeeld in welke omgeving ga je deze persoon interviewen, kan het zijn dat als je met z'n vijfen gaat dat ze zich bedreigd voelt. Uiteindelijk zorgt deze aanpak voor gerichtere vragen en ziet ook de opdrachtgever dat je in dit onderwerp geintresseerd bent. Hieronder staat het interview protocool zoals wij het eerste gesprek met de opdrachtgever hebben gehouden. [Interviewprotocol - AfasieExpert.pdf](https://github.com/erikos94/Portfolio/files/2744943/Interviewprotocol.-.AfasieExpert.pdf) (<a href='https://www.scrumwise.com/scrum/#/task/5022-interview-protocol-opstellen/id-84641-10738-102'> Scrumwise ticket</a>) </li>
+ 
  <li> Onderzoek gedaan naar Arfabet en sampa/xsampa. Dit hebben we gedaan om eventueel zelf een paar worden te kunnen omzetten naar deze afbet, om hiermee te gaan trainen. Daarnaast gebruikte pocketsphinx ARFABET en we moesten dus weten hoe dit in elkaar zat. [Klanken samenvatting CMUSPHINX(PORTFOLIO).docx](https://github.com/erikos94/Portfolio/files/2729482/Klanken.samenvatting.CMUSPHINX.PORTFOLIO.docx) (<a href='https://www.scrumwise.com/scrum/#/backlog-item/3523-find-out-more-about-phonemes-the-origin-and-how-they-work/id-84641-11280-0'> Scrumwise ticket </a>)
 
-<li>
- <li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.[Schema welke goed.pdf](https://github.com/erikos94/Portfolio/files/2744945/Schema.welke.goed.pdf)</li>
+<li> Selecteren van audio voor Afasie. Dit heb ik gedaan omdat heel veel audio hebben gekregen van de opdrachtgever, hierin zaten alle audio bestanden, dus ook met mensen die bijna geen woord kunnen zeggen. Wij focussen ons nu op de de fonologie afwijkingen dus deze moesten we eruit filteren.[Schema welke goed.pdf](https://github.com/erikos94/Portfolio/files/2744945/Schema.welke.goed.pdf)</li>
  <li> Dataset achterhaalt (gesproken corpus Nederlands)</li>
  <li>speech2text met google api [Api google code.docx](https://github.com/erikos94/Portfolio/files/2736965/Api.google.code.docx)</li>
 <ul>
