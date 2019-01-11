@@ -140,7 +140,9 @@ Doordat dit model goed werkte heb ik toen als input de MFCC features genomen en 
   
  <h2> Communication (presentations, summaries, paper) </h2><br>
  
- <b> paper: </b> <br>
+ Hieronder staat het paper dat we met de groep hebben gemaakt. Zelf heb ik de Abstract, introduction,approach geschreven. Ook heb ik me bezig gehouden met het experiment te beschrijven van het LSTM(sequence to sequence). 
+ paper: [Paper_Aphasia_v1.0.pdf](https://github.com/erikos94/Portfolio/files/2751127/Paper_Aphasia_v1.0.pdf)
+  <br>
  
  Ik heb zoals met de rest van de groep aan alle presentaties meegewerkt om deze te maken. Daarnaast heb ik vier presentations gehouden. De presenaties die ik heb gehouden staan hieronder genoemd.
 
